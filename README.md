@@ -13,6 +13,10 @@
 
 # Azure Storage Account
 
+The custom policy will only allow users to create a new Storage Account that is in compliance with our security standards.
+Option #1. Enable public access from selected virtual networks and IP addresses
+Option #2 Disable public access and use private access
+
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/5fe3abe1-9a06-4036-afae-0c57df6642f1" />
 
 # When users go to create a Storage account, the options are:
