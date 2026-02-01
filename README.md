@@ -1,0 +1,1 @@
+# Azure-Policy---Deny-creation-of-Azure-resources-from-allowing-public-access-from-all-networks
